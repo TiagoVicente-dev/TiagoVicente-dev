@@ -38,6 +38,13 @@ Fique à vontade para acompanhar minha evolução.
 > Obrigado por visitar meu perfil! 🙌
 ## Hi there 👋
 
+---
+
+## 👁️ Contador de visitas
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=TiagoVicente-dev.TiagoVicente-dev&title=Visitantes&color=brightgreen)
+
+
 <!--
 **TiagoVicente-dev/TiagoVicente-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
