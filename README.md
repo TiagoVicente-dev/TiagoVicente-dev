@@ -68,16 +68,18 @@ Fique à vontade para acompanhar minha evolução.
 - 🛠️ **Git/GitHub** – Publicando meus projetos no repositório
 - 🧩 **Projetos pequenos** – Em construção...
 
-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
-</p>
-
-## 💼 Minhas habilidades
+- ## 💼 Minhas habilidades
 
 🧩 HTML • CSS • JavaScript  
 ⚙️ Git & GitHub  
 🖥️ VS Code  
 🌐 Interesse em Front-end
+
+
+- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
+</p>
+
 
 
 
