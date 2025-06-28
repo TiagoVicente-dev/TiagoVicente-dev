@@ -52,6 +52,18 @@ Fique à vontade para acompanhar minha evolução.
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=TiagoVicente-dev.TiagoVicente-dev&title=👤 Visitantes&color=blueviolet&style=flat-square)
 
+---
+
+## 🧠 Linha do Tempo de Aprendizado
+
+- 🚀 **2025.1** – Iniciei meus estudos em programação
+- 🔤 **HTML** – Entendi a estrutura das páginas
+- 🎨 **CSS** – Estilizei minhas primeiras interfaces
+- 📜 **JavaScript** – Comecei a interatividade e lógica
+- 🛠️ **Git/GitHub** – Publicando meus projetos no repositório
+- 🧩 **Projetos pequenos** – Em construção...
+
+
 
 
 <!--
