@@ -68,6 +68,11 @@ Fique à vontade para acompanhar minha evolução.
 - 🛠️ **Git/GitHub** – Publicando meus projetos no repositório
 - 🧩 **Projetos pequenos** – Em construção...
 
+- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
+</p>
+
+
 
 
 
