@@ -72,6 +72,14 @@ Fique à vontade para acompanhar minha evolução.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
 </p>
 
+## 💼 Minhas habilidades
+
+🧩 HTML • CSS • JavaScript  
+⚙️ Git & GitHub  
+🖥️ VS Code  
+🌐 Interesse em Front-end
+
+
 
 
 
