@@ -75,6 +75,16 @@ Fique à vontade para acompanhar minha evolução.
 🖥️ VS Code  
 🌐 Interesse em Front-end
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoVicente-dev&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoVicente-dev&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVicente-dev&layout=compact&theme=radical" />
+</p>
+
+
 
 - <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
