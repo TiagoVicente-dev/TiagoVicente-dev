@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,6e40c9,b03eff&height=150&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=30&fontColor=FFFFFF" />
+</p>
+
+
 # 👋 Olá, eu sou o Tiago Vicente!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedor+Front-end+em+formação;Aprendendo+HTML%2C+CSS+e+JavaScript;Compartilhando+minha+jornada+de+evolução+🚀)](https://git.io/typing-svg)
 
