@@ -44,6 +44,13 @@ Fique à vontade para acompanhar minha evolução.
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=TiagoVicente-dev.TiagoVicente-dev&title=Visitantes&color=brightgreen)
 
+---
+
+## 👁️ Contador de visitas
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=TiagoVicente-dev.TiagoVicente-dev&title=👤 Visitantes&color=blueviolet&style=flat-square)
+
+
 
 <!--
 **TiagoVicente-dev/TiagoVicente-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
